@@ -15,7 +15,7 @@ function App() {
     phone: "",
     email: "",
     program: "",
-    graduationYear: null,
+    graduationYear: 2023,
     graduated: false,
   });
 
@@ -29,7 +29,7 @@ function App() {
       phone: "",
       email: "",
       program: "",
-      graduationYear: "",
+      graduationYear: 2023,
       graduated: false,
     });
   }
